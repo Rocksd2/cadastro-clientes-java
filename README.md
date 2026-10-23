@@ -69,36 +69,7 @@ java -cp bin Main
 - **Collections API**: Uso de `ArrayList` e proteção de coleções com `Collections.unmodifiableList`.
 - **Tratamento de Entradas**: Leitura robusta com `Scanner`, evitando travamentos por entradas inválidas ou quebras de linha pendentes.
 
----
-
-## 📤 Como Publicar no Seu GitHub
-
-Se ainda não publicou este projeto no seu GitHub, siga este passo a passo no terminal:
-
-```bash
-# 1. Entre na pasta do projeto
-cd cadastro-clientes
-
-# 2. Inicialize o repositório Git
-git init
-
-# 3. Adicione os arquivos ao versionamento
-git add .
-
-# 4. Crie o primeiro commit
-git commit -m "feat: projeto inicial do sistema de cadastro de clientes"
-
-# 5. Crie a branch principal
-git branch -M main
-
-# 6. Conecte ao seu repositório remoto no GitHub (substitua a URL pelo seu repo)
-git remote add origin https://github.com/SEU_USUARIO/cadastro-clientes.git
-
-# 7. Envie os arquivos
-git push -u origin main
-```
 
 ---
-
 ## 📄 Licença
 Distribuído sob a licença MIT. Sinta-se livre para utilizar e aprimorar para fins acadêmicos ou profissionais!
