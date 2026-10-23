@@ -1,0 +1,17 @@
+# Byte-code compilado
+*.class
+bin/
+out/
+target/
+
+# Ambientes e IDEs
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
+Thumbs.db
